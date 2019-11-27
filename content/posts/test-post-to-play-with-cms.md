@@ -4,7 +4,7 @@ date: 2019-11-27T15:18:33.799Z
 published: true
 tags: []
 cover_image: /images/uploads/brooke-lark-08boynh_r_e-unsplash.jpg
-description: I like to write blog **posts** that are short and sweet.
+description: I like to write blog posts that are short and sweet.
 ---
 This is a **great** tool.
 
