@@ -21,4 +21,5 @@ One more line of text here.
 * List 1
 * List 2 
 * List 3
-* ![Sick image](/images/uploads/sun-3713835_1920.jpg "Yeah buddy")
+
+![Sick image](/images/uploads/sun-3713835_1920.jpg "Yeah buddy")
