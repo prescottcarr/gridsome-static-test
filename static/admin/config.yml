@@ -12,6 +12,7 @@ collections:
         file: "pages/about.yml"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Meta Title, name: meta, widget: string}
           - {label: Intro, name: intro, widget: markdown}
           - label: Team
             name: team
